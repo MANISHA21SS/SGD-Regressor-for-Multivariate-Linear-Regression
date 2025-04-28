@@ -76,9 +76,13 @@ print("\nPredictions: \n",Y_pred[:5])
 ```
 
 ## Output:
+
 ![Screenshot 2025-04-28 210309](https://github.com/user-attachments/assets/175d2261-b64b-4a85-b7f3-59763a7387cb)
+
 ![Screenshot 2025-04-28 210331](https://github.com/user-attachments/assets/24c7d699-e6d3-47e2-b816-aaefca8cfc81)
+
 ![Screenshot 2025-04-28 210348](https://github.com/user-attachments/assets/76b619e2-7462-4928-8a66-1a66f511117e)
+
 ![Screenshot 2025-04-28 210354](https://github.com/user-attachments/assets/1bc44790-dcf3-47d0-98b8-0e5f702cb1d0)
 
 
