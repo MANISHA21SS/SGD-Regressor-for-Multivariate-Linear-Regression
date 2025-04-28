@@ -9,15 +9,22 @@ To write a program to predict the price of the house and number of occupants in 
 
 ## Algorithm
 Step 1: Import necessary libraries
+
 Step 2: Load and explore the dataset
+
 Step 3: Preprocess the data
+
 Step 4: Split the data
 Use train_test_split() to divide the dataset into training and testing sets (e.g., 80% training, 20% testing).
+
 Step 5: Create and train the SGD Regressor model
+
 Step 6: Predict on the test data
 Use the trained models to predict y_pred for test features X_test.
+
 Step 7: Evaluate the model
 Compare the predicted values (y_pred) with the actual values (y_test).
+
 Step 8: Display the results
 Print the actual vs predicted results.
 Print evaluation metrics to understand model performance.
